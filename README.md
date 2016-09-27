@@ -10,4 +10,4 @@ Exercises using design patterns in Node.js and AngularJS.
 * **Allen H. Thompson**
 
 ## Acknowledgments
-* This kind folks at PluralSight
+* This kind folks at PluralSight - Jonathon Mills
