@@ -20,4 +20,4 @@ var repoFactory = function() {
      };
 };
 
-module.exports = new repoFactory;
+//module.exports = new repoFactory;
